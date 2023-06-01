@@ -9,9 +9,11 @@
 
 ## Usage
     After changing the code I was able to deploy the site to prove and test functionality of the site. It is placed below.
+    https://apatton33.github.io/firstchallenge-code-refactor/
     
 ## Credits
 I obtained the starter code for this challenge at 
 https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License 
+Mit license
